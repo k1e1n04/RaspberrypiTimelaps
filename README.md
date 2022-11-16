@@ -1,1 +1,2 @@
 # RaspberrypiTimelaps
+RaspberrypiとWebカメラを用いてタイムラプスを撮影するためのリポジトリです。
